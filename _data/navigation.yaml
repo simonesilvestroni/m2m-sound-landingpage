@@ -1,0 +1,13 @@
+menu:
+  - name: Links
+    link: /#links
+  - name: Skills
+    link: /#skills
+  - name: Experience
+    link: /#experience
+  - name: Extras
+    link: /#extras
+  - name: Languages
+    link: /#languages
+  - name: Endorsements
+    link: /#endorsements

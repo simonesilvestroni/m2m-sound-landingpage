@@ -1,0 +1,51 @@
+company:
+  - name: 'Minutes to Midnight'
+    role: 'Sound designer and music producer'
+    time: '2015-present'
+    location: 'Cambridge (UK)'
+    desc: '<ul class="list-hr"><li>Production, bass, mix, and mastering with artists and companies in the UK, Italy, Germany, France, and the United States.</li><li>Sound design for the acclaimed animated series <em>CarCity</em>.</li><li>Mixed 5 albums with SoundOnSound chief editor <a href="https://www.soundonsound.com/author/sam-inglis">Sam Inglis as a recordist</a>, and renowned <a href="https://productionadvice.co.uk/about/">master engineer Ian Shepherd</a>.</li><li>Bass and co-production for singles, EPs and albums for renowned multi-instrumentalist Gerald Duchene (Simply Red, Radiohead, Tina Turner, and more). One performance got me an endorsement by bassist Leland Sklar (Phil Collins, Toto).</li><li>Recorded and arranged bass tracks on the SoundBetter platform.</li><li>Production for Mally Harpaz, multi-instrumentalist with Anna Calvi, for Irish singer-songwriter Ciara Clifford, and more.</li><li>Toured the south of England with British singer-songwriter Callum Gardner</li><li>Local audio manipulation and implementation with Audiokinetic Wwise, during the build of a personal sound effects library.</li><li>Recorded, produced and released a 10-song concept album, where I managed to incorporate field recordings captured around the Berlin area.</li></ul>'
+    project:
+    - prjtitle: 'Sound design, music production and bass work (2015-2023)'
+      projlink: 'https://minutestomidnight.co.uk/sound-design/'
+    publication:
+    - pubtitle: 'Efficient Productivity for Music Professionals'
+      publink: 'https://minutestomidnight.co.uk/blog/project-management/'
+    courses:
+    - coursename: 'Audio Master Engineering / Producing Music With Reason / Bass'
+      courselocation: 'Berklee College Of Music'
+      courseyear: '2015-2018'
+    - coursename: 'Logic Pro X 10.3 Certification'
+      courselocation: 'Apple'
+      courseyear: '2018'
+      coursecity: 'London'
+
+  - name: 'New Energy (part of Accenture)'
+    role: 'Sound designer'
+    time: '2006-2008'
+    location: 'Milan (Italy)'
+    desc: 'Design and implementation of audio and video productions for major mobile providers, including Vodafone and TIM. The role required research and development, as well as co-ordinating a team of artists, and deployment of the content to a proprietary content management system.'
+
+  - name: 'Playstos Entertainment'
+    role: 'Game audio designer, team leader'
+    time: '2000-2006'
+    location: 'Milan (Italy)'
+    desc: '<ul class="list-hr"><li>Shipped the PlayStation 2 title <em>Ruff Trigger: The Vanocore Conspiracy</em>.</li><li>Created and implemented the initial adaptive soundtrack.</li><li>Recorded and produced sound effects using Foley and field recording.</li><li>Worked on linear footage dialogue.</li><li>Implemented audio using the in-house engine Wazábe and XACT for Xbox.</li><li>Co-ordinated versioning and audio assets management using Alienbrain.</li><li>At the 2002 Game Developer Conference in San Jose (CA), I joined G.A.N.G. as a bronze member on the day of its foundation.</li></ul>'
+    project:
+    - prjtitle: '“Ruff Trigger” Playstation 2 video game (2007)'
+      projlink: 'https://minutestomidnight.co.uk/blog/ruff-trigger-playstation2-game/'
+    courses:
+    - coursename: 'Game Developer Conference'
+      courselocation: 'Moscone Center'
+      courseyear: '2002'
+      coursecity: 'San Jose (CA)'
+
+  - name: 'Freelance'
+    role: 'Musician, studio assistant'
+    time: '1991-2000'
+    location: 'Ravenna and Milan (Italy)'
+    desc: '<ul class="list-hr"><li>Audio assistant and in-house bass player in a high-end studio, where I learned analog signal flow, microphone theory, recording, and productiong using the early editions of Pro Tools and Logic.</li><li>Bass player for for indie and signed artist, including Lucio Dalla’s label <em>Pressing</em>.</li>'
+    courses:
+    - coursename: 'Bass / Music Theory / Harmony / Arrangement'
+      courselocation: 'Centre For Professional Music'
+      courseyear: '1992-1995'
+      coursecity: 'Milan (Italy)'

@@ -1,0 +1,58 @@
+# -------------------
+# Main
+# -------------------
+host: 'localhost'
+url: 'https://sound.minutestomidnight.co.uk'
+canonical_url: 'https://sound.minutestomidnight.co.uk'
+baseurl: ''
+lang: 'en-GB'
+
+# -------------------
+# Configuration
+# -------------------
+timezone: 'Europe/London'
+author:
+  name: 'Simone Silvestroni'
+  email: 'hello@minutestomidnight.co.uk'
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# -------------------
+# About
+# -------------------
+title: 'Simone Silvestroni, sound designer and music producer'
+description: 'I’m a professional bass player and composer who became a game audio designer, and specialised in mixing and mastering.'
+tagline: 'Based in Cambridge, UK, I’m a professional bass player and composer by trade. A keen eye for details helped me becoming a game audio sound designer, specialising as a mix and master engineer with a strong record of on-time delivery.'
+minibio: 'My key skill is the ability to seamlessly switch side from creative to technical, which makes me capable of understanding the complete workflow of audio production.'
+logo: '/assets/images/m2m-og-image.png'
+keywords:
+  minutes to midnight,
+  simone silvestroni,
+  sound design,
+  bass,
+  game audio,
+  foley,
+  field recording,
+  music production,
+  music composer,
+  mix,
+  master,
+  reaper,
+  pro tools,
+  logic pro,
+
+# -------------------
+# Exclusions
+# -------------------
+# exclude:
+#   - README.md
+
+# -------------------
+# Defaults
+# -------------------
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'default'

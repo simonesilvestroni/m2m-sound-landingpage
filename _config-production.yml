@@ -1,0 +1,3 @@
+exclude:
+  - README.md
+  - assets/css/m2m.css
