@@ -43,12 +43,6 @@ keywords:
   logic pro,
 
 # -------------------
-# Exclusions
-# -------------------
-# exclude:
-#   - README.md
-
-# -------------------
 # Defaults
 # -------------------
 defaults:
